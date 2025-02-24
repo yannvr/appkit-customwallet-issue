@@ -1,0 +1,21 @@
+{
+  "name": "appkit-sample",
+  "version": "1.0.0",
+  "description": "This is a minimal reproducible example using Appkit with Vite that only add a custom wallet on an appKit instance.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reown/appkit": "^1.6.8"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
