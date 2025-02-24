@@ -9,5 +9,5 @@ This is a minimal reproducible example using Appkit with Vite that only add a cu
 ## reproduce error
 - click wallets button
 
-Expected: a single wallet "ForDefi" in wallet list
-Actual: no wallets available
+- Expected: a single wallet "ForDefi" in wallet list
+- Actual: no wallets available
